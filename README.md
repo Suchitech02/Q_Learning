@@ -13,4 +13,15 @@ Objectives
 
 - Prepare for Deep RL & Multi-Agent RL (MARL)
 
+Q_learning/
+│
+├── README.md                        # Documentation
+├── requirements.txt                 # Dependencies for this project
+│
+├── notebooks/
+│   └── Day1_Q_Learning_Taxi.ipynb   # Colab-friendly notebook with explanations
+│
+└── src/
+    ├── q_learning_taxi.py           # Script version of Q-learning algorithm
+    └── utils.py                     # (Optional) helper utilities
 
