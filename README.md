@@ -20,7 +20,7 @@ Q_learning/
 ├── requirements.txt
 │
 ├── notebooks/
-│   └── Day1_Q_Learning_Taxi.ipynb
+│   └── Q_Learning_Taxi.ipynb
 │
 └── src/
     ├── q_learning_taxi.py
