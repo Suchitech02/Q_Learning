@@ -15,13 +15,13 @@ Objectives
 
 Q_learning/
 │
-├── README.md                        # Documentation
-├── requirements.txt                 # Dependencies for this project
+├── README.md
+├── requirements.txt
 │
 ├── notebooks/
-│   └── Day1_Q_Learning_Taxi.ipynb   # Colab-friendly notebook with explanations
+│   └── Day1_Q_Learning_Taxi.ipynb
 │
 └── src/
-    ├── q_learning_taxi.py           # Script version of Q-learning algorithm
-    └── utils.py                     # (Optional) helper utilities
+    ├── q_learning_taxi.py
+    └── utils.py
 
