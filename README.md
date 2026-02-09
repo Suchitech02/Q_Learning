@@ -13,6 +13,7 @@ Objectives
 
 - Prepare for Deep RL & Multi-Agent RL (MARL)
 
+```
 Q_learning/
 │
 ├── README.md
@@ -24,4 +25,6 @@ Q_learning/
 └── src/
     ├── q_learning_taxi.py
     └── utils.py
+```
+
 
